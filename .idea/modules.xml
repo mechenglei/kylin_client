@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/kylin_client.iml" filepath="$PROJECT_DIR$/.idea/kylin_client.iml" />
+      <module fileurl="file://E:\芒果tv\code\reporte\.idea\reporte.iml" filepath="E:\芒果tv\code\reporte\.idea\reporte.iml" />
+    </modules>
+  </component>
+</project>
