@@ -6,7 +6,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='kylin_client',
-    version='0.1.1',
+    version='1.0.2',
     description=(
         'kylin api client'
     ),
@@ -16,7 +16,6 @@ setup(
     license='BSD License',
     packages=find_packages(),
     platforms=['win7', 'linux'],
-    url='https://github.com/mechenglei/kylin_client',
     install_requires=[
         'requests',
     ],

@@ -18,8 +18,8 @@ QUERY
 
 .. code-block:: python
 
-    >>>from kylin_client import KylinClient as kyclient
-    >>>kyclient(host='127.0.0.1:7070', user='ADMIN', password='KYLIN')
-    >>>kyclient.query('select * from kylin_test', project='kylin_test', limit=500)
+    >>>from kylin_client.kylin_client import KylinClient as kyclient
+    >>>client = kyclient(host='127.0.0.1:7070', user='ADMIN', password='KYLIN')
+    >>>client.query('select * from kylin_test', project='kylin_test', limit=500)
 
 
